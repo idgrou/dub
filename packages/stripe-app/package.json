@@ -6,7 +6,7 @@
   "license": "~~proprietary~~",
   "dependencies": {
     "@stripe/ui-extension-sdk": "^8.8.1",
-    "react": "^19.0.0",
+    "react": "^19.2.1",
     "react-dom": "^19.0.0",
     "stripe": "^13.11.0"
   },
